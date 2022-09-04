@@ -48,7 +48,8 @@
         "Scrum" : "Scrum",
         "Git" : "Git"
     },
-    "experience" : {
+    "experience" : "Experience",
+    "experienceItems" : {
         "exp0" : "Gökbora Lojistik - Intern",
         "expYear0" : "2016 - 2016",
         "expValue0" : "0.3",
@@ -59,13 +60,13 @@
         "expYear2" : "2019 - 2021",
         "expValue2" : "0.8",
         "exp3" : "Freelancer Java & Flutter Developer",
-        "expYear3" : "2018 - Halen",
+        "expYear3" : "2018 - Still",
         "expValue3" : "1",
         "exp4" : "Xinerji Software - Head of Mobile",
         "expYear4" : "2021 - 2022",
         "expValue4" : "0.7",
         "exp5" : "Vodafone - Senior Software Engineer",
-        "expYear5" : "2021 - 2022",
+        "expYear5" : "2021 - Still",
         "expValue5" : "0.2"
     }
 }   

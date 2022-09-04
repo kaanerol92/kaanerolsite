@@ -1,0 +1,21 @@
+{
+    "packages/flutter_icons/fonts/FontAwesome.ttf": [
+        "packages/flutter_icons/fonts/FontAwesome.ttf"
+    ],
+    "packages/flutter_icons/fonts/FontAwesome5_Brands.ttf": [
+        "packages/flutter_icons/fonts/FontAwesome5_Brands.ttf"
+    ],
+    "packages/flutter_icons/fonts/FontAwesome5_Regular.ttf": [
+        "packages/flutter_icons/fonts/FontAwesome5_Regular.ttf"
+    ],
+    "packages/flutter_icons/fonts/FontAwesome5_Solid.ttf": [
+        "packages/flutter_icons/fonts/FontAwesome5_Solid.ttf"
+    ],
+    "packages/flutter_icons/fonts/MaterialCommunityIcons.ttf": [
+        "packages/flutter_icons/fonts/MaterialCommunityIcons.ttf"
+    ],
+    "packages/flutter_icons/fonts/MaterialIcons.ttf": [
+        "packages/flutter_icons/fonts/MaterialIcons.ttf"
+    ]
+
+}

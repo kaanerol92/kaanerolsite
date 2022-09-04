@@ -48,7 +48,8 @@
         "Scrum" : "Scrum",
         "Git" : "Git"
     },
-    "experience" : {
+    "experience" : "Tecrübe",
+    "experienceItems" : {
         "exp0" : "Gökbora Lojistik - Stajyer",
         "expYear0" : "2016 - 2016",
         "expValue0" : "0.3",
@@ -65,7 +66,7 @@
         "expYear4" : "2021 - 2022",
         "expValue4" : "0.7",
         "exp5" : "Vodafone - Kıdemli Yazılım Mühendisi",
-        "expYear5" : "2021 - 2022",
+        "expYear5" : "2021 - Halen",
         "expValue5" : "0.2"
     }
 }   
